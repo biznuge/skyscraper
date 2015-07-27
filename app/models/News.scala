@@ -1,4 +1,6 @@
+/* https://yobriefca.se/blog/2012/05/07/starter-for-10-scala-play-2-and-mongo/ */
 
+/* http://www.skysports.com/feeds/11095/news.xml */
 
 /*<?xml version="1.0" encoding="utf-8" ?>
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/rss/rssRender.xsl"?>
